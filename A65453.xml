@@ -1,0 +1,441 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached in St. Maries church at Gates-head in the county-Palatine of Durham at the funeral of George Johnson, Gent., deceased, May 29, Anno Dom 1683 / by Richard Werge ... ; whereunto is added, Anelegy by a friend.</title>
+            <author>Werge, Richard, 1624 or 5-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65453</idno>
+            <idno type="STC">Wing W1366</idno>
+            <idno type="STC">ESTC R8026</idno>
+            <idno type="EEBO-CITATION">12326054</idno>
+            <idno type="OCLC">ocm 12326054</idno>
+            <idno type="VID">59559</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65453)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59559)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 929:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached in St. Maries church at Gates-head in the county-Palatine of Durham at the funeral of George Johnson, Gent., deceased, May 29, Anno Dom 1683 / by Richard Werge ... ; whereunto is added, Anelegy by a friend.</title>
+                  <author>Werge, Richard, 1624 or 5-1687.</author>
+               </titleStmt>
+               <extent>[2], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Clark, for Joseph Hall ... and Robert Clavel ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59559:1"/>
+            <pb facs="tcp:59559:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED IN St. <hi>MARIES</hi>-Church at <hi>Gates-head</hi> in the County-Palatine of <hi>Durham,</hi> AT THE FUNERAL OF George Johnſon, GENT. Deceaſed, <hi>May 29. Anno Dom. 1683.</hi>
+            </p>
+            <p>By RICHARD WERGE, A. M. Re<g ref="char:EOLunhyphen"/>ctor of that Church.</p>
+            <p>WHEREUNTO IS ADDED, An <hi>ELEGY</hi> by a Friend.</p>
+            <q>
+               <hi>Of whom the World was not worthy,</hi> 
+               <bibl>Heb. 11. 38.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Clark,</hi> for <hi>Joſeph Hall</hi> Book-Seller and Book-Binder upon <hi>Tyne</hi>-Bridge, <hi>Newcaſtle</hi> upon <hi>Tyne,</hi> and <hi>Robert Clavel</hi> at the <hi>Peacock</hi> in St. <hi>Pauls</hi> Church-Yard, 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:59559:2"/>
+            <pb n="1" facs="tcp:59559:2"/>
+            <head>A SERMON PREACHED In St. <hi>Mary's</hi>-Church of <hi>Gateshead,</hi> in the County-Palatine of <hi>Durham,</hi> at the Fu<g ref="char:EOLhyphen"/>neral of <hi>George Johnſon</hi> Gentleman, decea<g ref="char:EOLhyphen"/>ſed; <hi>May</hi> the 29th. <hi>Anno Domini 1683.</hi>
+            </head>
+            <epigraph>
+               <bibl>
+                  <hi>Heb.</hi> IX. Part of the 27th. Verſe.</bibl>
+               <q>—<hi>It is appointed for men once to die.</hi>
+               </q>
+            </epigraph>
+            <p>THE firſt <hi>Adam,</hi> the <hi>Protoplaſt</hi> of all mankind, was made upright, his Righteouſneſs, was not the Righ<g ref="char:EOLhyphen"/>teouſneſs of his Perſon only; but it was the righteouſneſs of Humane Nature;
+<pb n="2" facs="tcp:59559:3" rendition="simple:additions"/> It was a Connatural Endowment, it was given to man with his Nature; ſo that if <hi>Adam,</hi> had continued in that his eſtate, ac<g ref="char:EOLhyphen"/>cording to his firſt Creation, He had (with all his poſterity) been free from death: But being created mutable, and yielding to the Temptation of <hi>Eve,</hi> (who was inti<g ref="char:EOLhyphen"/>ced by the Devil, in the ſhape of a Serpent) He by his tranſgreſſion fell; nay, his diſo<g ref="char:EOLhyphen"/>bedience remains ours by imputation; yea further, the ſin imputed, makes us liable to the puniſhment to be inflicted, and that is death threatened upon ſin, in thoſe words, <hi>In the day that thou eateſt, thou ſhalt ſurely die.</hi>
+            </p>
+            <p>All Saints are mortal, though not equal: The greateſt ſins, through Chriſt, upon Faith, and Repentance are venial; and the leaſt ſin, in its Nature, without Faith, and Repentance is mortal, and makes men liable to death temporal, ſpiritual, and eternal. Now,</p>
+            <p>The death, that I ſhall (here) ſpeak of, is a temporal death, the Conſequent of ſin.</p>
+            <p>We ſee in the Text, that it is a ſtatute-Law; <hi>it is appointed for Men once to die:</hi> It is a ſtatute-Law, that hath been in force in all ages, and will be to the end of the world. The Law of the <hi>Medes</hi> and <hi>Perſians,</hi>
+               <pb n="3" facs="tcp:59559:3"/> which was not to be altered, is not ſo ſure and firm as this.</p>
+            <p>Neither riches, nor honour, nor beauty nor ſtrength, nor any outward priviledge, can free men from death. The Prophets, do they live for ever? Miniſters, Magi<g ref="char:EOLhyphen"/>ſtrates, Maſters, Servants, the deformed, the beautiful, high, and low, rich, and poor they are all ſubject to death. <hi>Abraham, the Father of the faithful, Iſaac</hi> the <hi>Patriarch, Aaron</hi> the <hi>Prieſt, Joſiah</hi> the <hi>Prince,</hi> theſe all died.</p>
+            <p>All fleſh is graſs, Death, is the end of all fleſh; it is the way of all the Earth.</p>
+            <p>When <hi>Zerxes</hi> upon an hill, beheld his great Army, both by ſea and land, he wept, conſidering, that within one hun<g ref="char:EOLhyphen"/>dred years, there ſhould not be one of that great company left alive.</p>
+            <p>The World is a Theatre; the earth, is as a Stage, placed in the midſt: Here, high, and low, all ſorts of people act their parts, as in a Tragedy; the cryes of new born children are as the <hi>Prologue;</hi> our falſe hopes, our vain joys, our fierce diſtracti<g ref="char:EOLhyphen"/>ons are as the <hi>Muſich</hi> that divides the <hi>Acts:</hi> Time holds the <hi>glaſs,</hi> and when the laſt ſand is fallen, death ſtrikes the <hi>Epilogue,</hi> and the <hi>Play</hi> is done.
+<pb n="4" facs="tcp:59559:4"/> Man's life, is like a winters day; when the Sun is then ſtrongeſt, it is but weak; when it is at the higheſt, it is but low; and when it ſhines longeſt, it is but ſhort.</p>
+            <p>Every thing hath its ſpring, growth, and decay: and all men have their dates, however eminent in degree; and the ſhank of their Compaſs is ſo ſet in a Centre, that the Circle of their lives is oftentimes ab<g ref="char:EOLhyphen"/>rupt, before it be drawn to a full round.</p>
+            <p>Some, whoſe bodies have been ſtrong, fitted for war, have by ſpears, and glitte<g ref="char:EOLhyphen"/>ring ſword been laid upon the ground, purpled with the broken, and bloody car<g ref="char:EOLhyphen"/>caſes one of another, mixt as in an horible winepreſs; others by the diſtemperature of diet, continually labour, contagiouſ<g ref="char:EOLhyphen"/>neſs of air, and afflictions by ſickneſs, have been weakned, and have yielded up the ghoſt.</p>
+            <p>There are ſome Scriptures affirmative, teſtifying, that all men are liable to death. There are other Scriptures negative, teſti<g ref="char:EOLhyphen"/>fying, that there are none exempt from death.</p>
+            <p>The cauſe of death is univerſal, and
+<pb n="5" facs="tcp:59559:4"/> that is ſin. Sin, is the true and proper cauſe. <hi>Death entred into the world by ſin, Rom. 5. 12. Death, is the wages of ſin;</hi> now, <hi>all have ſin<g ref="char:EOLhyphen"/>ned,</hi> and therefore, <hi>all are liable to death.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Death is a propriety in<g ref="char:EOLhyphen"/>ſeparable from man, ſaid <hi>Nazianzen.</hi>
+            </p>
+            <p>Nothing can bear off fatal blows, when Death-ſtrikes with its Ragged-ſtaff.</p>
+            <p>When the rich Cardinal of <hi>Wincheſter</hi> was ſtruck with an uncurable diſeaſe, and was told by his Phyſician, that he could not live; ſaid he, <hi>will not Death be hired? will money do nothing? must I die who have ſo great riches? If the whole Realm would ſave my life, I am able either by policy to get, or by riches to buy it:</hi> but all would not prevail, but that he died of the ſame diſeaſe.</p>
+            <p>
+               <hi>Caeſar</hi> and <hi>Pompey,</hi> who got ſuch famous victories, and were exalted to ſo great ho<g ref="char:EOLhyphen"/>nour, <hi>Marcellus,</hi> and <hi>Beliſarius,</hi> thoſe ſuc<g ref="char:EOLhyphen"/>cesful Commanders; <hi>Saladine,</hi> the Conque<g ref="char:EOLhyphen"/>ror of the Eaſt, and <hi>Alexander</hi> the great, who got ſo many victories, and had Am<g ref="char:EOLhyphen"/>baſſadours ſent to him from all Countries, to congratulate his conqueſts, and to do him homage, and bring him preſents theſe all died.</p>
+            <p>Though men live a long time, yet they
+<pb n="6" facs="tcp:59559:5"/> die. <hi>All the days of</hi> Lamech <hi>were ſeven hundred ſeventy and ſeven years, and he died. All the days of</hi> Methuſalem, <hi>were nine hundred ſixty and nine years, and he died. Joſhua</hi>'s Sun had a time to ſet; and they who live a long time, die at laſt.</p>
+            <p>which way ever you look, you may ſee ſomething that may mind you of mortali<g ref="char:EOLhyphen"/>ty. When you behold the duſt of the Earth, you may then remember that you are duſt, &amp; that <hi>to dust you muſt return.</hi> When you look upon the flowers of the field, you may then remember that <hi>man comes forth like a flower, and is cut down.</hi> When you look upon the clouds, you may then remember, that <hi>man going to the grave is as a cloud, that is con<g ref="char:EOLhyphen"/>ſumed, and vaniſheth away.</hi> When you behold the fowls of the air, you may then conſi<g ref="char:EOLhyphen"/>der, that <hi>Man's days are as the Eagle, that haſt<g ref="char:EOLhyphen"/>eth to the prey.</hi> When you look upon the water, you may then remember that <hi>man dying is as the fome upon the water; and as wa<g ref="char:EOLhyphen"/>ter ſpilt upon the ground.</hi> When you come to Church, you ſee the Sepulchers of others; and ſome of you can ſcarcely go from the places where you ſtand, but you will tread upon the dormitories of ſome of your pro<g ref="char:EOLhyphen"/>genitors. When you travail abroad, you
+<pb n="7" facs="tcp:59559:5"/> hear of the death of others; and when you come home, upon your tables you ſee the carcaſes of creatures ſlain for your uſe; All which things ſhould put you in mind of that mortality to which you are all lia<g ref="char:EOLhyphen"/>ble.</p>
+            <p>
+               <hi>Objection.</hi> The Apoſtle ſaith, <hi>1. Cor. 15. ver. 51. We ſhall not all ſleep.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> That, is ſpoken only of ſuch as ſhall be living at the very moment of Chriſts coming to Judgment: all before them ſhall die; and (even) they ſhall be changed, which is equivalent to death.</p>
+            <p>
+               <hi>Obj.</hi> Enoch, <hi>was tranſlated that he ſhould not ſee death; and</hi> Elijah <hi>was wrapt up into hea<g ref="char:EOLhyphen"/>ven, and died not.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> There was a ſpecial reaſon, why thoſe two were freed from the ordinary way of dying.</p>
+            <p>It was a long time between the promiſe of Chriſt, and the Exhibition of him; and therefore to ſupport the faith of believers, in a freedom from death by Chriſt, the Lord was pleaſed to give thoſe two real de<g ref="char:EOLhyphen"/>monſtrations; the one before the floud, and the other after the floud.</p>
+            <p>Beſides that, one or two extraordinary Inſtances, do not infringe an ordinary
+<pb n="8" facs="tcp:59559:6"/> Rule; eſpecially, when it is altered by him who ſet the Rule. Moreover, they were both changed, which is anſwerable to death; and thereby, their robe of morta<g ref="char:EOLhyphen"/>lity, was taken off before they were admitted into heaven Our death, is a change; and their change was as death.</p>
+            <p>Wee ſee by experience, that men of all eſtates, and conditions are taken away by death; even the righteous periſh, and mercifull men are taken away. No privi<g ref="char:EOLhyphen"/>ledge can exempt men from death.</p>
+            <p>
+               <hi>Naſcimur, Morimur;</hi> and therefore, <hi>Solomon</hi> in his 30th. of <hi>Prov.</hi> joyns the <hi>Womb</hi> and the <hi>Grave</hi> together; to ſhew, that we are no ſooner born, but death waits for us. Every one that hath his <hi>Geneſis,</hi> muſt have his <hi>Exodus.</hi> One hearing one boaſt that <hi>he could decline any word,</hi> he told him, <hi>he could not decline death.</hi> We <hi>eat and we die,</hi> ſaid the old <hi>Stoich.</hi> Wee put death into our mouths and death on our backs; we are all poſting on to the grave, which is the <hi>Houſe of all the living.</hi>
+            </p>
+            <p>The decree of God, in this reſpect, is eſtabliſhed; and the law of nature, in this reſpect, is in violable, and univerſal. Wee are all born alike, and wee muſt die
+<pb n="9" facs="tcp:59559:6"/> alike; <hi>We came naked into the world, and we muſt go out naked. Mors omnes reddit aequales; aequat divitibus pauperes, et liberis ſervos.</hi> Death makes all alike; it makes the rich and poor, maſters and ſervants alike; death puts an end to all civil diſtinctions.</p>
+            <p>Having done with the illuſtration of this truth, I ſhall now ſpeak to you by way of Application.</p>
+            <div n="1" type="instruction">
+               <head>First Inſtruction.</head>
+               <p>Hence wee are informed of the ſtability of God's decree. God's purpoſe was, that if man ſinned, he ſhould die; and God hath made good his word ever ſince; all the poſterity of <hi>Adam</hi> hath been liable to death. Indeed, God is unchangeable in his Eſſence, his Attributes, his Councels, and his Word. What God ſaith, ſhall be done; what he ſpeaks, ſhall be accompliſh<g ref="char:EOLhyphen"/>ed; whatſoever God wills, purpoſes, and ſpeaks, ſhall be brought to paſs, <hi>Numb.</hi> the 23d. verſe the 19th.</p>
+            </div>
+            <div n="2" type="instruction">
+               <head>Second Inſtruction.</head>
+               <p>Hence we learn the frailty of man's
+<pb n="10" facs="tcp:59559:7"/> nature. There are many dangers, and diſ<g ref="char:EOLhyphen"/>eaſes attending us, ſo that wee may ſay with Saint <hi>Paul, Wee are in deaths oft.</hi>
+               </p>
+            </div>
+            <div n="3" type="instruction">
+               <head>Third Inſtruction.</head>
+               <p>By this we ſee the ſad effects of ſin. There is an evil in ſin, and that is the vio<g ref="char:EOLhyphen"/>lation of God's Law: and their is an evil after ſin, and that is death, the puniſhment of ſin. <hi>Draco,</hi> the ſevere Law-giver, being asked, why (when all ſins were not equal) he appointed death to all, he anſwered, he knew all ſins were not equal; but he knew the leaſt deſerved death. It was the ſpeech of <hi>Heraclitus</hi> concerning a Bow, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, its work is to kill; ſo, the effect of ſin is death. <hi>By one man ſin entred into the world, and death by ſin, and ſo death over all men, for as much as all have ſinned.</hi> Rom. the 5th. <hi>ver.</hi> the 12th.</p>
+               <p>Indeed the Apoſtle ſaith, there is a ſin not unto death; but that is to be under<g ref="char:EOLhyphen"/>ſtood of the event, not the merit. The leaſt ſin being committed againſt an infi<g ref="char:EOLhyphen"/>nite Juſtice, deſerves death. this was a prin<g ref="char:EOLhyphen"/>ciple impreſſed upon nature; the very <hi>Hea<g ref="char:EOLhyphen"/>thens</hi> were ſenſible of it: the Apoſtle ſpea<g ref="char:EOLhyphen"/>ing
+<pb n="11" facs="tcp:59559:7"/> of the <hi>Heathens, Rom.</hi> the 1ſt. and the 32d. ſaith thus; <hi>Knowing, that they which commit ſuch things, are worthy of death.</hi> It is plain by the words of the Apoſtle, that <hi>the Heathens knew this:</hi> and the Prophet is poſitiye in it, <hi>The ſoul that ſinneth it ſhall die.</hi> Ezek. the 18th. and the 4th.</p>
+               <p>The firſt <hi>Adam</hi> had two <hi>Sacraments</hi> laid before him, a <hi>Sacrament of life,</hi> and a <hi>Sacra<g ref="char:EOLhyphen"/>ment of death;</hi> the <hi>tree of life,</hi> was a <hi>Sacrament of life;</hi> by eating of that <hi>Tree,</hi> he was to be upheld in his <hi>obedience,</hi> which was the way to life: Had he continued eating of that <hi>Tree,</hi> he had been freed from <hi>temporal death;</hi> &amp; after an enjoyment of a <hi>temporal happineſs</hi> in this world, he ſhould have been tran<g ref="char:EOLhyphen"/>ſlated to an eſtate of <hi>eternal bleſſedneſs,</hi> in heaven: But by eating of the <hi>forbidden tree</hi> (which was a <hi>Sacrament of death)</hi> he was liable to death: Now <hi>Adam</hi> was a repreſenta<g ref="char:EOLhyphen"/>tive Perſon, the root of all mankind; ſo that in <hi>Adam,</hi> all ſinned and in him, all men are liable to death.</p>
+            </div>
+            <div n="4" type="exhortation">
+               <head>The Fourth Exhortation.</head>
+               <p>Make uſe of your thoughts about man's mortality, as a remedy.</p>
+               <pb n="12" facs="tcp:59559:8"/>
+               <p>Firſt, againſt <hi>pride:</hi> It was decreed by the Senate of <hi>Rome,</hi> that when the <hi>Roman Con<g ref="char:EOLhyphen"/>queror,</hi> was in his Triumphs, &amp; had ſo many acclamations, and praiſes, and other occa<g ref="char:EOLhyphen"/>ſions of pride; that one ſhould cry thus, <hi>Remember that thou art a man:</hi> that ſo the con<g ref="char:EOLhyphen"/>ſideration of his <hi>mortality</hi> might keep him from pride.</p>
+               <p>They are in no peril of death: that is, they think themſelves to be in no peril; and this is the cauſe, that they are ſo hol<g ref="char:EOLhyphen"/>den with pride, <hi>Pſal. 73.</hi> If men did mind their latter end, if they did conſider, that in a ſhort time, they muſt be turned into duſt, ſurely they would be humble; but they think only of this life, therefore they are ſo proud.</p>
+               <p>Man who at firſt, was made like unto God, is now, like the beaſts that periſh; not a brute, but brutiſh, in reſpect of ſen<g ref="char:EOLhyphen"/>ſuality, and mortality. He who was crea<g ref="char:EOLhyphen"/>ted Lord of the Univerſe, muſt now ſay <hi>to corruption, thou art my Father, and to the worm thou art my Mother, and Siſter:</hi> And this is the fruit of ſin; and the thought of it, ſhould make us low in our own eyes.</p>
+               <p>Secondly, Make uſe of the thoughts of man's mortality as a remedy againſt <hi>Cove<g ref="char:EOLhyphen"/>touſneſs.</hi>
+               </p>
+               <pb n="13" facs="tcp:59559:8"/>
+               <p>
+                  <hi>Facile contemnit omnia, qui ſemper ſe cogitat moriturum.</hi> That man, is eaſily perſwaded to contemn all things, who is always mindful of his own death. A little money will ſerve for his expences, who is to go but a ſhort journey. A little parcel of earth will hold them, who now ambitiouſly ſeek after the whole world. Why ſhould man be inordinatly deſirous after great territories, and rich clothing, who in a ſhort time, ſhall have no more Land, than the compaſs of his grave; and no more clothing than thoſe veſtiments appointed for his burial! The <hi>Pſalmiſt</hi> accounts this a great piece of <hi>vanity; ſurely every man walketh in a vain ſhew; ſurely they are diſquieted in vain. He heapeth up riches to himſelf, and knoweth not who ſhall gather them. Pſal. 39.</hi> Why ſhould they ac<g ref="char:EOLhyphen"/>cumulate riches, and endeavour to graſp the world, who in a ſhort time, muſt lay their heads upon a green Turf? Our life is like the <hi>Macedonian</hi> Empire, that was in, and out like a flaſh. <hi>Vita, vitrea; fumus, &amp; umbra ſumus.</hi> Our life is like glaſs; we are as ſmoak, and as a ſhadow; and therefore, the Apoſtle exhorts thus, 1 <hi>Cor. 7. 29, 30, 31. Brethren, the time is ſhort, it remaineth, that they that have wives be as though they had none;</hi>
+                  <pb n="14" facs="tcp:59559:9"/> 
+                  <hi>and they that weep, as if they wept not; and they that rejoyce as if they rejoyced not; and they that buy, as if they poſſeſſed not; and they that uſe the world as not abuſing it; for the faſhion of this World paſſeth away.</hi> Why ſhould frail man, be in ordinately deſirous after riches, pleaſures, and honours of the world; when he may be ſo quickly taken from them, or they from him?</p>
+            </div>
+            <div n="5" type="exhortation">
+               <head>The Fifth Exhortation.</head>
+               <p>As the thoughts of man's frailty, ſhould diſwade you from thoſe ſins of pride, and covetouſneſs; ſo it ſhould perſwade you to ſeveral practicall duties.</p>
+               <p n="1">1 It ſhould put you upon the ſtudy of true wiſdom. <hi>David</hi> deſired to be inſtructed <hi>how to number his days,</hi> and <hi>that time he had yet to live, Pſal. 39. 5.</hi> And <hi>Moſes learned in all the wiſdom of the Aegyptians deſired in the</hi> behalf of himſelf and others, <hi>to be taught to number their daies, Pſal 90. 12. So teach us to number our daies, that we may apply our hearts unto wiſ<g ref="char:EOLhyphen"/>dom.</hi> Neither <hi>David,</hi> nor <hi>Moſes</hi> deſired to know in a literal ſence, what year, or what day their life ſhould end; but in a ſpiritual ſence, how they might live ſo
+<pb n="15" facs="tcp:59559:9"/> as that they might end their lives well any day of the year, or any hour of the day. There is no kind of learning more weighty than this.</p>
+               <p n="2">2. This ſhould move you to repentance. <hi>Hezekiah</hi> did ſo upon a meſſage of death. We cannot promiſe life to our ſelves till to morrow; and therefore wee ſhould re<g ref="char:EOLhyphen"/>pent to day. Whilſt a woman is with child, none can tell what kind of birth it will be; and ſo time travelleth with God's decrees, and in their ſeaſon brings them forth; but little doth any man know what is in the womb of to morrow, till God hath ſignified it by the event: and therefore, it is fit ſuddenly to ſet about repentance, before days of darkneſs come.</p>
+               <p n="3">3. It ſhould perſwade you to a reverenti<g ref="char:EOLhyphen"/>al fear of God. <hi>Fear him, who is able to kill both body and ſoul.</hi> God is a God life and death; he <hi>kills, and makes alive;</hi> he <hi>hath the Keys of death and hell, Revel. 1. 18.</hi> Who would but fear him, who hath within him the power of life and death?</p>
+               <p n="4">4. This ſhould perſwade us to patience under all adverſities, and diſeaſes. Death will put an end to all ſuch evils. Many are the troubles of the righteous: a particular
+<pb n="16" facs="tcp:59559:10"/> inſtance hereof we have in. <hi>paul,</hi> whoſe ſufferings are largly ſet out 2 <hi>Cor. 11. 23, 24.</hi> If you ſhould meet with the like, conſider that within a while, death will put an end to all ſuch evils; and therefore, you ſhould bear up your Spirits now.</p>
+               <p n="5">5. Let this move you to deſire, and to ſeek after heavenly things. There is no good foundation of hope, nor any good ground of joy to be found here; and there<g ref="char:EOLhyphen"/>fore, the frequent meditation about death ſhould move you to deſire after heaven and happineſs. <hi>Our converſation is in heaven,</hi> ſaith the Apoſtle, <hi>from whence we look for the Saviour, the Lord Jeſus Christ, who ſhall change our vile body, that it may be faſhioned like to his glorious body.</hi> One reading that Scrip<g ref="char:EOLhyphen"/>ture, that <hi>No man hath ſeen God at any time, and lived,</hi> cryed out thus, <hi>O then that I might die, that I might ſee him.</hi>
+               </p>
+               <p n="6">6. This ſhould perſwade you to be wil<g ref="char:EOLhyphen"/>ling to die. <hi>Aliter ſe habere non poteſt neceſſari<g ref="char:EOLhyphen"/>um,</hi> ſaid <hi>Ariſtotle,</hi> That that is neceſſary can<g ref="char:EOLhyphen"/>not be otherwiſe: And therefore be of his reſolution, who ſaid, <hi>Cum nequeo mutare, aequo animo feram.</hi> When I cannot turn a<g ref="char:EOLhyphen"/>ſide an evil, I will bear it patiently. There is a neceſſity of all mens dying. The extent
+<pb n="17" facs="tcp:59559:10"/> and community of this condition, ſheweth the neceſſity of it. <hi>The wiſe man dieth as the fool, Eccles. 2. 16. The beggar died, and the rich man died, Luke 16. 22.</hi> Thoſe who (in re<g ref="char:EOLhyphen"/>ſpect of their office) are as <hi>Gods upon earth, ſhall die like men. The mighty man and the man of war, the Judge, and the Prophet, the Prudent, and the Ancient, the Captain, and the Honoura<g ref="char:EOLhyphen"/>ble man, the Councellor, and the cunning Artificer; and the eloquennt orator;</hi> theſe, who are the ſtay, and ſtaff of a Nation ſhall be taken away, <hi>Iſai. 3. 1, 2, 3.</hi>
+               </p>
+               <p>Therefore ſince Death cannot be avoided, it is fit, that men ſhould cheerfully undergo it. Thus did <hi>Elias,</hi> he <hi>ſate under the Juniper tree, and deſired, that he might die, and ſaid, it is enough, Lord, now; O Lord take my ſoul, for I am not better than my Fathers.</hi> Thus died faith<g ref="char:EOLhyphen"/>ful <hi>Simeon; Lord now lettest thou thy ſervant de<g ref="char:EOLhyphen"/>part in peace.</hi>
+               </p>
+               <p>Indeed, Chriſtians, do not deſire Death, as Death. <hi>Paul,</hi> in that reſpect, would <hi>not be unclothed.</hi> And <hi>Peter</hi> muſt be <hi>carried whither he would not:</hi> but when Chriſtians conſider the decree of heaven, the ſetled purpoſe of God; &amp; the unalterable Laws of nature; and the benefits they obtain by it, then they ſhould be ready to ſay, <hi>now fare<g ref="char:EOLhyphen"/>wel
+<pb n="18" facs="tcp:59559:11"/> world; farewell relations; and welcom death, welcome Chriſt; welcome heaven.</hi> Queen <hi>Eliza<g ref="char:EOLhyphen"/>beth,</hi> profeſſed, that <hi>She preferred her Cof<g ref="char:EOLhyphen"/>fin before her Cradle, and her Burial-day before her Birth-day.</hi> And you ſhould be cheerful in the thoughts of death, which cannot be reſiſted; and ſhould account it an happy change to go from night, to day; from darkneſs, to light; from death, to life; from ſorrow, to ſolace; from a troubleſome world, to a reſting place in Heaven.</p>
+               <p n="7">7. Let this perſwade you to be patient about the death of others. When <hi>Galienus,</hi> the Emperor, was told of the death of his Father, why ſaid he, <hi>I knew that my Father was mortal. When Anaxagoras</hi> was told of the death of his ſon, he anſwered, <hi>he knew his ſon was mortal.</hi> Conſider the greatneſs of <hi>Job,</hi> and the goodneſs of <hi>Job:</hi> he was the <hi>greatest of all the men of the eaſt;</hi> ſuppoſed by ſome to be the King of the <hi>Edomites;</hi> and as for his goodneſs, he was <hi>a perfect, and upright man:</hi> conſider the ſudden death of his <hi>ſeven Sons, &amp; three Daughters;</hi> conſider with what contentedneſs &amp; thankfulneſs he did bear all, <hi>Job 2. 21. Job</hi> in this caſe, will be a wor<g ref="char:EOLhyphen"/>thy pattern of contentment to you in the like caſe; and a ſtrong inforcement to this
+<pb n="19" facs="tcp:59559:11"/> duty. When your Friends die, you ſhould <hi>not be as men without hope:</hi> you ſhould con<g ref="char:EOLhyphen"/>ſider, that their death could not be reſiſt<g ref="char:EOLhyphen"/>ed, nor can their life be recalled; and that he that hath taken them away, can pro<g ref="char:EOLhyphen"/>vide for them better than you can do; and can make an abundant ſupply of them to you another way, and can be better to you than many friends. Friends can do you no good, except God be your friend; and if God be your friend, you will not ſtand in need of other friends; He will more than ſupply the room of all friends &amp; relations. You cannot account thoſe friends that are taken away by death, to be utterly loſt. It is obſervable, that <hi>Job</hi>'s Children who were taken away by death, were not num<g ref="char:EOLhyphen"/>bred amongſt the things that were loſt. It is ſaid, that the Lord gave <hi>Job twice as much as he had before, Job 42. 10. He had ſeven thouſand ſheep before, and he had fourteen thouſand</hi> given him again; he had <hi>three thouſand Ca<g ref="char:EOLhyphen"/>mels</hi> before, and he had <hi>ſix thouſand</hi> given him after; and ſo for other things, they were all double: But when his <hi>Sons</hi> and <hi>daughters</hi> are mentioned, there is the ſame number as before, <hi>ſeven ſons and three daugh<g ref="char:EOLhyphen"/>ters;</hi> and yet it is ſaid, that <hi>God gave twice as</hi>
+                  <pb n="20" facs="tcp:59559:12"/> 
+                  <hi>much as he had before;</hi> the reaſon is this; His <hi>Cattle</hi> were utterly loſt, and their number was doubled; and his <hi>ſons</hi> and <hi>daughters</hi> were the ſame number as before; and yet, they were accounted double; be<g ref="char:EOLhyphen"/>cauſe, though they were taken away by death, yet they were not abſolutely loſt.</p>
+               <p n="8">8. Let us, by this that hath been ſaid, be perſwaded to prepare our ſelves for death.</p>
+               <p>Death is common; none can exempted from it; and it is certain, none can avoid it; and therefore, it is fit, that we ſhould be always prepared for it. Death is an Enemy, which we muſt encounter; an Enemy which wee muſt overcome; and therefore, wee ſhould be always in a rea<g ref="char:EOLhyphen"/>dyneſs for it.</p>
+            </div>
+            <div type="instructions">
+               <head>In order to your preparation.</head>
+               <p n="1">1. Think of thoſe things, that may put you in mind of death.</p>
+               <p>It hath been an ancient practice of the Devil, to perſwade men to be forgetful of death; ſome of the <hi>Aegyptians</hi> did hide their dead, the <hi>Scythians</hi> did eat their dead, the
+<pb n="21" facs="tcp:59559:12"/> 
+                  <hi>Greeks</hi> did burn their dead, and let the Wind blow away their aſhes: others, have thrown their dead bodies into the ſea, to be devoured of fiſhes, on purpoſe, that there might be nothing before their eyes, to mind them of death: But ſurely it will be Chriſtian prudence to have death always before your eyes, and to look at thoſe things, that might put you in mind of Death. God clothed our firſt parents with the <hi>Skins</hi> of <hi>dead beaſts,</hi> that they might think on Death. And he now feeds us with the <hi>fleſh</hi> of <hi>ſlain beaſts,</hi> that we might remember the ſame.</p>
+               <p n="2">2. Endeavour to diſaffect the things of the world. So long as men have towring thoughts, and ambitious deſires after ho<g ref="char:EOLhyphen"/>nour: ſo long as men are full of immode<g ref="char:EOLhyphen"/>rate cares about the things of the world: So long as they affect delicate fare, and coſtly arraiment, they are unwilling to hear of Death. But, when they come to have their affections dead to the world; when thoſe intemperate deſires after great poſſeſſions are quenched; when men undervalue, and diſeſteem the world, and look upon all the glory thereof as a fancy; when men have their hearts cleanſ<g ref="char:EOLhyphen"/>ed
+<pb n="22" facs="tcp:59559:13"/> from the love of the world, then they are eaſily perſwaded to be willing to die.</p>
+               <p n="3">3. Set your houſes in order, for the comfort, and convenience of them that are to live after you. When <hi>Hezekiah,</hi> received <hi>a meſſage of Death,</hi> he was commanded <hi>to ſet his houſe in order, Iſai. 38.</hi> And it is of great uſe for all Chriſtians. When mens eſtates are unſetled, then their minds are unſet<g ref="char:EOLhyphen"/>led; but, when men have diſcreetly diſpo<g ref="char:EOLhyphen"/>ſed, of their eſtates for their families, and relations, their fears and troubles are in a great meaſure over, and they are then in a fitter condition to die.</p>
+               <p n="4">4. Set about repentance. It was good counſel, that one gave to his Scholar, that he <hi>ſhould be ſure to repent one day before he died;</hi> which came to this, that he ſhould repent every day; becauſe he knew not, but that might be the day of his Death. It is one of the Devils ways to deſtroy ſouls, by temp<g ref="char:EOLhyphen"/>ting them to defer and delay the time of repentance: He deals with ſinners in this caſe, like a cunning Uſurer, who flatters his debtor, till he hath failed his day, and then he ſeizeth upon his land. And therefore, let us cry out, <hi>quamdiu cras,</hi>
+                  <pb n="23" facs="tcp:59559:13"/> 
+                  <hi>quare non hodie? How long ſhall we ſay to morrow? why not to day?</hi> You may die to night, and how can you repent to morrow? It will be your prudence ſpeedily to repent.</p>
+               <p>I would willingly perſwade you, to ſet about the confeſſion of all your ſins, both in thought, word, and deed. Mourn for your ſins; for <hi>Original ſin,</hi> for <hi>Actual ſins,</hi> for the ſins of your <hi>Youth,</hi> and <hi>riper years.</hi> Mourn for your ſins of <hi>Omiſſion,</hi> and <hi>Commiſſion;</hi> for ſins <hi>at home,</hi> and <hi>ſins abroad;</hi> for ſins of <hi>Igno<g ref="char:EOLhyphen"/>rance,</hi> and ſins of <hi>Preſumption.</hi> But this is not enough; a ſorrow for ſin, an acknowledg<g ref="char:EOLhyphen"/>ment of ſin, do not make up true repent<g ref="char:EOLhyphen"/>ance. <hi>Judas</hi> repented, and acknowledged his ſin, in betraying innocent blood, and yet he retained a murtherous prin<g ref="char:EOLhyphen"/>ciple: for he afterwards murthered him<g ref="char:EOLhyphen"/>ſelf. And therefore, you muſt add to theſe, reformation of life: There muſt be a change of the heart, and ſuch an alteration of the mind, and diſpoſition, as may pro<g ref="char:EOLhyphen"/>duce a new life, and converſation.</p>
+               <p>To this your repentance add faith; the end whereof is the ſalvation of the Soul. Being thus prepared, you will be in a con<g ref="char:EOLhyphen"/>dition like St. <hi>Ambroſe</hi> who declared, that <hi>he was neither aſhamed to live, nor afraid to die.</hi>
+                  <pb n="24" facs="tcp:59559:14"/> Being thus prepared, you will be meet for the inheritance of the Saints in light.</p>
+               <p>And now, I cannot but ſay ſomething of this worthy perſon deceaſed, whoſe bo<g ref="char:EOLhyphen"/>dy is now brought to be inhum'd.</p>
+               <p>I cannot be ſilent without wrong to the Church, and diſhonour to God: neither can I ſpeak without loſs to his merit. I am afraid, that except I were a more worthy <hi>Encomiast,</hi> able to expatiate in a formal <hi>Pa<g ref="char:EOLhyphen"/>negyrick,</hi> that what I ſhall ſay, will be a diminution of his worth.</p>
+               <p>Poſibly, ſome may judge it unfit to com<g ref="char:EOLhyphen"/>mend the dead though they have been fa<g ref="char:EOLhyphen"/>mous in their Generations; But you know of whom it was ſaid, that <hi>he was a burning and a ſhining light;</hi> and I think it fit that they who honour God, ſhould be honoured both in life and death.</p>
+               <p>He had a ſtrong body, and a ſolid judg<g ref="char:EOLhyphen"/>ment, an excellent diſpatch of buſineſs, not apt to be elevated, or dejected. By his vi<g ref="char:EOLhyphen"/>gilance, care, induſtry, and activity, (God bleſſing his endeavours) he hath done many and great things for the good of himſelf and others in this place.</p>
+               <p>He was clothed with humility, of an obliging temper, of a moſt ſweet diſpoſiti<g ref="char:EOLhyphen"/>on;
+<pb n="25" facs="tcp:59559:14"/> ſeldom ſeen to have an angry counte<g ref="char:EOLhyphen"/>nance; nor did I ever hear him ſpeak evill of any man.</p>
+               <p>He was a Peace-keeper, and a Peace-ma<g ref="char:EOLhyphen"/>ker; ready to compoſe differences, far from doing any wrong to others; and far from revenging wrong done by others: He was made up of kindneſs, he never declined any capacity of doing good.</p>
+               <p>His aſſiduity in waiting upon Ordi<g ref="char:EOLhyphen"/>nances, and his love to the Miniſters of the Goſpel, was admirable; eſpecially to thoſe whom he found to be the Orthodox, and Loyal. His principle was to fear God, and honour the King; to be obedient to the Laws, both of the Church, and State. His zeal was great, in endeavouring, that loy<g ref="char:EOLhyphen"/>al and faithful Subjects might be elected to ſit as Members in Parliament.</p>
+               <p>He was an excellent Subject, Husband, Father, and Friend.</p>
+               <p>He frequently appear'd at this Font, as a God-Father, to the Children of the poor<g ref="char:EOLhyphen"/>eſt perſons. He was ready to entertain ſtrangers: the bleſſing of them that were ready to periſh, was upon him. He was zealous of good works, as being the neceſ<g ref="char:EOLhyphen"/>ſary fruits of Chriſtian faith. he was come
+<pb n="26" facs="tcp:59559:15"/> to the top of St. <hi>Peters</hi> Climax, brotherly kindneſs, and charity. No man could bet<g ref="char:EOLhyphen"/>ter ſay his prayers, as being dove-like, free from gall and rancor. His patience was great, under God's afflicting hand; in his greateſt extremities I never heard him murmur.</p>
+               <p>The Sun in all his journeys, hath ſcarce<g ref="char:EOLhyphen"/>ly ſeen a better qualifi'd perſon.</p>
+               <p>He was <hi>Gateſhead's</hi> darling: in reſpect of his meekneſs, and charity, he is hard<g ref="char:EOLhyphen"/>ly to be equalled; never to be exceeded in this place, (or his place. ) He ſhin'd as the <hi>Morning ſtar</hi> among the living; and dying, as the <hi>Evening ſtar</hi> among the dead.</p>
+               <p>Theſe are the due praiſes of this glori<g ref="char:EOLhyphen"/>ous Saint.</p>
+               <p>He hath faithfully diſcharged his duty towards God and man. He hath now a writ of eaſe from all his induſtrious la<g ref="char:EOLhyphen"/>bours; <hi>he hath fought a good fight, he hath finiſhed his courſe,</hi> and <hi>is now gone to wear that Crown, that is laid up for him.</hi>
+               </p>
+               <p>
+                  <hi>Audite Poſteri!</hi> If my voice would reach it, I would ſpeak to the generations that are yet to come.</p>
+               <p>You of this preſent age can bear faith<g ref="char:EOLhyphen"/>full witneſs of theſe his vertues; and of
+<pb n="27" facs="tcp:59559:15"/> the truth of what I ſpeak; and I hope, that thoſe, who come after will always mention his name, as being of bleſſed memory, knowing that the righteous ſhall be had in everlaſting remembrance.</p>
+               <p>We have reaſon to believe, that his Soul is now beholding the face of God in glory; that it is warbled in the Quires of ever bleſſed ſpirits, in that vortex of eter<g ref="char:EOLhyphen"/>nity; and that his body ſhall be raiſed in glory, and being reunited to his ſoul, ſhall enjoy happy immortality, and immortal happineſs.</p>
+               <p>Now let us all endeavour to worſhip, and glorifie God with our bodies, and ſouls in this life, that our bodies, and ſouls may be glorifi'd in the life to come, <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="poem">
+            <pb n="28" facs="tcp:59559:16"/>
+            <head>AN ELEGY UPON THE DEATH OF George Iohnſon, GENT. Of <hi>Gates-head,</hi> in the County-Palatine of <hi>Durham,</hi> who died <hi>May 29. An. Dom. 1683.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <l>
+                     <hi>Dignum laude Virum, Muſavetat mori;</hi>
+                  </l>
+                  <l>
+                     <hi>Coelo Muſa beat</hi>
+                  </l>
+                  <bibl>—Hor. <hi>Ode 8.</hi> Carminum, <hi>Lib. 4.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <l>
+                     <hi>Virtus in aſtra tendit.</hi>
+                  </l>
+                  <l>Paulum <hi>ſepultae diſtat inertiae</hi>
+                  </l>
+                  <l>
+                     <hi>Celate Virtus</hi>
+                  </l>
+                  <bibl>—Hor. <hi>Lib. 4.</hi> Carminum, <hi>Ode 9.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <lg>
+               <l>AWake, awake dull Muſe, awake and ſee</l>
+               <l>How juſt my cauſe is for an <hi>Elegy.</hi>
+               </l>
+               <l>See where he lies, an Object who may make</l>
+               <l>Th'obdurat'ſt heart relent; and now partake</l>
+               <l>With us in Fun'ral Obſequies: See where</l>
+               <l>His breathleſs Subſtance lies, that was ſo dear;</l>
+               <l>So priz'd, ſo valu'd. Do but caſt an eye,</l>
+               <l>And 'twill b'enough t'enforce an <hi>Elegy.</hi>
+               </l>
+               <pb n="29" facs="tcp:59559:16"/>
+               <l>How can thy ſuccinct Temples now admit</l>
+               <l>Or entertain repoſe? ſee how we ſit</l>
+               <l>Pil'd up in ſorrow; every corner keeping</l>
+               <l>Its Pect'ral lugent. What's <hi>Melpom'ne</hi> ſleeping?</l>
+            </lg>
+            <lg>
+               <l>Heark, heark, the ſighs, ſee, ſee the tears that fall,</l>
+               <l>Many they are; 'cauſe many lov'd; nay, all.</l>
+               <l>Oh, that I had no cauſe t'implore thy skill</l>
+               <l>To this ſad <hi>Elegy!</hi> Oh, that my Quill</l>
+               <l>Might want thoſe blacker drops caus'd by a day</l>
+               <l>More black to us, than in themſelves are they!</l>
+               <l>Alas, alas, alas, This, this our ſorrow,</l>
+               <l>Needs not a ſecond Cauſe! we need not borrow</l>
+               <l>Or beg an higher grief! Why ſo? Our loſs,</l>
+               <l>Is not in Trifles, but in Sum, in Groſs.</l>
+            </lg>
+            <lg>
+               <l>If Death &amp; Fate, with their Conſultants, had</l>
+               <l>A parly held t'have made our loſs more ſad,</l>
+               <l>Such; ſuch an Object in our Confines, they</l>
+               <l>Could not have fixt on. O, that they ſhould lay</l>
+               <l>Their plotting heads together, thus to take</l>
+               <l>Our only Patron from us! Thus to make</l>
+               <l>A day of ſorrow, grief, by poling from us</l>
+               <l>Ourman of Hope, the Prince of men among us!</l>
+               <pb n="30" facs="tcp:59559:17"/>
+               <l>He was that Hand that handed out relief</l>
+               <l>To Orphans, widows; ſtrangers, in their grief</l>
+               <l>Had their acceſs unto him: Still he had</l>
+               <l>An heart to Pity; Families were clad</l>
+               <l>By his ſucceſsful hand: Nay, <hi>Sheet</hi>'s tooſmall</l>
+               <l>A <hi>Continent</hi> to ſpeak his Virtues all.</l>
+            </lg>
+            <lg>
+               <l>He was the man on whom numbers depen<g ref="char:EOLhyphen"/>ded;</l>
+               <l>Now, being gone, numberleſs hopes are ended,</l>
+               <l>He, he it was 'pon whom our ſtructure ſtood</l>
+               <l>Corradicated: One, whoſe Life was good,</l>
+               <l>And Actions ſtill exemplary: Many,</l>
+               <l>Supported by him were; oppreſt ne'r any.</l>
+            </lg>
+            <lg>
+               <l>O cruel Death! how could'ſt thou ſmite or wound</l>
+               <l>That Breaſt, wherein all virtues have bin found?</l>
+               <l>How was't his aged Smiles could not prevail</l>
+               <l>With thee beforeth' Arreſt? His worth no bail?</l>
+               <l>Hard, covetous Uſurer, that fore the day,</l>
+               <l>Feteht Intereſtand Principle away!</l>
+            </lg>
+            <lg>
+               <l>Hadſt thou but left his fellow, 'twould have been</l>
+               <l>Part ſatisfaction; but this Stratagem</l>
+               <l>Who of us all can wave it? Let that Eye</l>
+               <l>That here denies his Tear, be ever dry.</l>
+               <pb n="31" facs="tcp:59559:17"/>
+               <l>Sure, ſure, he was more highly born by Grace,</l>
+               <l>Than Nature; for, in him the firſt gave place;</l>
+               <l>And as a ſtrong man's bound by ſtronger power</l>
+               <l>So Grace in him threvv Nature out of door:</l>
+               <l>This, by his Life appear'd; for none ere cry'd,</l>
+               <l>But he their Cauſe examin'd, and ſupply'd</l>
+               <l>Their preſent vvants, vvith heart &amp; breaſt as full</l>
+               <l>For all their vvants, as theirs through want were dull.</l>
+            </lg>
+            <lg>
+               <l>He vvas the vvonder of our Age: a Gem,</l>
+               <l>Valu'd and priz'd amongſt the beſt of men;</l>
+               <l>And not vvithout due merit: for his Deeds</l>
+               <l>Proclaim him highly vvorthy; Blazons, ſpreads</l>
+               <l>His Name, as memorable; And though he</l>
+               <l>Lie dormant in his Urn, yet's Memory</l>
+               <l>Will ſtill be vvaking. Future Ages ſhall</l>
+               <l>Applaud our <hi>Johnſon,</hi> and him Worthy call.</l>
+            </lg>
+            <lg>
+               <l>Unbyaſt in his Verdicts? of a Spirit</l>
+               <l>Equanimous and Noble. None can merit,</l>
+               <l>(Principle-vviſe) an higher Laud; or claim</l>
+               <l>More juſt <hi>Encomiums.</hi> H'vvas ſtill the ſame.</l>
+               <l>True to the Church, ſound in his Judgment; High</l>
+               <l>Thoughts of his King he ſtill retain'd. The Eye</l>
+               <pb n="32" facs="tcp:59559:18"/>
+               <l>Of all his Countrey he: In's place, for's time,</l>
+               <l>He like a Conſtellation, bright did ſhine.</l>
+            </lg>
+            <lg>
+               <l>No porlant Ear he had, or did allow</l>
+               <l>Suſurrous Tongues in any. To out-do,</l>
+               <l>I mean o'r-reach his Neighbors, never he</l>
+               <l>Was ſeen, or known, or found. True Charity</l>
+               <l>Kept reſidence in's Soul; H'was firm &amp; ſtrong</l>
+               <l>As Rock or Mountain to his Friend. Among</l>
+               <l>Ten thouſand thouſands not his ſecond. What</l>
+               <l>Remaineth now? Perfection. He was that.</l>
+            </lg>
+            <closer>
+               <signed>J. J.</signed>
+               <salute>—JOHNSON, Semper bonos, nomen<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tuum, laudeſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> manebunt.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:59559:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
